@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "GeometryConsole": {
+      "commandName": "Project",
+      "nativeDebugging": false
+    }
+  }
+}
